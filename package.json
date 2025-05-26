@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boocksfman/Library-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boocksfman/Library-/issues"
+  },
+  "homepage": "https://github.com/Boocksfman/Library-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
